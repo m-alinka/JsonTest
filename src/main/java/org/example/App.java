@@ -8,7 +8,7 @@ import java.lang.reflect.Type;
 import java.util.List;
 
 class Files{
-    // Class representing files and some other stuff.
+
     String name;
     String type;
     int size;

@@ -29,9 +29,8 @@ class Files{
 
 public class App 
 {
-    static final String JSON = """
-     
-     
+    static final String JSON = """ 
+    
         [ { "name": "1.txt", "size": 1234, "type": "txt" }, 
         { "name": "2.png", "size": 456, "type": "png" } ] 
     
